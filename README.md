@@ -1,3 +1,3 @@
 # 31github
 My github challenge repo
-![Alt text](https://prnt.sc/7hxaGj2MvdJn "Optional Title")
+![Screenshot](https://img001.prntscr.com/file/img001/PbN4x-_mR8u-9fjhz_JNTw.png)
