@@ -21,8 +21,8 @@ My github challenge repo
 
 ## Day 4: "Hello, World!" in Python
 - **Theory:** Python for Beginners
-- **Task:** Write a "Hello, World!" script in Python.
-- **To Do:** Place the hello_world.py file in my repository.
+- **Task:** ~~Write a "Hello, World!" script in Python.~~
+- **To Do:** ~~Place the hello_world.py file in my repository.~~
 
 ## Day 5: Variables and Data Types in Python
 - **Theory:** Variables and Data Types in Python
