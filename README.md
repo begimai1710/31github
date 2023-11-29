@@ -31,8 +31,8 @@ My github challenge repo
 
 ## Day 6: Working with Strings in Python
 - **Theory:** Manipulating Strings in Python
-- **Task:** Create a Python script manipulating strings (concatenation, slicing, etc.).
-- **To Do:** Put the string_operations.py file in my repository.
+- **Task:** ~~Create a Python script manipulating strings (concatenation, slicing, etc.).~~
+- **To Do:** ~~Put the string_operations.py file in my repository.~~
 
 ## Day 7: Basics of Mathematics in Python
 - **Theory:** Arithmetic Operations in Python
