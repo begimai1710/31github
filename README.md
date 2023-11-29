@@ -26,8 +26,8 @@ My github challenge repo
 
 ## Day 5: Variables and Data Types in Python
 - **Theory:** Variables and Data Types in Python
-- **Task:** Write a Python script using various data types and variables.
-- **To Do:** Add the variables.py file to my repository.
+- **Task:** ~~Write a Python script using various data types and variables.~~
+- **To Do:** ~~Add the variables.py file to my repository.~~
 
 ## Day 6: Working with Strings in Python
 - **Theory:** Manipulating Strings in Python
