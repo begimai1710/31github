@@ -36,8 +36,8 @@ My github challenge repo
 
 ## Day 7: Basics of Mathematics in Python
 - **Theory:** Arithmetic Operations in Python
-- **Task:** Write a Python script performing various arithmetic operations.
-- **Decision:** Add arithmetic.py to my repository.
+- **Task:** ~~Write a Python script performing various arithmetic operations.~~
+- **Decision:** ~~Add arithmetic.py to my repository.~~
 
 ## Day 8: Lists in Python
 - **Theory:** Python Lists
