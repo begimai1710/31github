@@ -41,8 +41,8 @@ My github challenge repo
 
 ## Day 8: Lists in Python
 - **Theory:** Python Lists
-- **Task:** Play with Python lists: sort, add, and index.
-- **To Do:** Record in the lists.py file.
+- **Task:** ~~Play with Python lists: sort, add, and index.~~
+- **To Do:** ~~Record in the lists.py file.~~
 
 ---
 
