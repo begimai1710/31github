@@ -27,3 +27,22 @@ print(apartment.values())
 
 print ('bob' in apartment)
 print ('bob' not in apartment)
+
+russianDict = {'shishka': 'pinecone'}
+englishDict = {'pinecone': 'shishka'}
+
+
+bigDictionary = {}
+bigDictionary['russian'] = russianDict
+bigDictionary['english'] = englishDict
+
+
+print(bigDictionary)
+print(bigDictionary['russian']['shishka'])
+# print(dictionary['shishka'])
+
+
+aliceInfo = {'age': 19, 'height': 170, 'sex': 'f'}
+
+apartment = {'alice': aliceInfo}
+print(apartment['alice']['height'])
