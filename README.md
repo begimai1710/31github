@@ -49,13 +49,13 @@ My github challenge repo
 
 ## Day 9: Dictionaries Python
 - **Theory:** Dictionaries Python
-- **Task:** Create a script using dictionaries to store and retrieve data.
-- **To Do:** Add dictionaries.py to my repository.
+- **Task:** ~~Create a script using dictionaries to store and retrieve data.~~
+- **To Do:** ~~Add dictionaries.py to my repository.~~
 
 ## Day 10: Conditional Statements in Python
 - **Theory:** Control Flow in Python
-- **Task:** Write a script using if-else statements.
-- **To Do:** Place the conditionals.py file in my repository.
+- **Task:** ~~Write a script using if-else statements.~~
+- **To Do:** ~~Place the conditionals.py file in my repository.~~
 
 ## Day 11: Python Loops
 - **Theory:** Python Loops
