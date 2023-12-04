@@ -59,8 +59,8 @@ My github challenge repo
 
 ## Day 11: Python Loops
 - **Theory:** Python Loops
-- **Task:** Use for and while loops in a Python script.
-- **To Do:** Add loops.py to my repository.
+- **Task:** ~~Use for and while loops in a Python script.~~
+- **To Do:** ~~Add loops.py to my repository.~~
 
 ## Day 12: Functions in Python
 - **Theory:** Python Functions
