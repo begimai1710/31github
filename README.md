@@ -64,8 +64,8 @@ My github challenge repo
 
 ## Day 12: Functions in Python
 - **Theory:** Python Functions
-- **Task:** Create a Python script with multiple functions, performing tasks.
-- **To Do:** Put functions.py in my repository.
+- **Task:** ~~Create a Python script with multiple functions, performing tasks.~~
+- **To Do:** ~~Put functions.py in my repository.~~
 
 ## Day 13: Lambdas Python
 - **Theory:** Lambda Functions Python
