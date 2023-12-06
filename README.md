@@ -69,8 +69,8 @@ My github challenge repo
 
 ## Day 13: Lambdas Python
 - **Theory:** Lambda Functions Python
-- **Task:** Experiment with lambda functions.
-- **To Do:** Add lambda.py with examples of lambda functions.
+- **Task:** ~~Experiment with lambda functions.~~
+- **To Do:** ~~Add lambda.py with examples of lambda functions.~~
 
 ## Day 14: Importing Modules in Python
 - **Theory:** Python Modules
