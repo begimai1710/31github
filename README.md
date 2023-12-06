@@ -68,7 +68,7 @@ My github challenge repo
 - **To Do:** ~~Put functions.py in my repository.~~
 
 ## Day 13: Lambdas Python
-- **Theory:** Lambda Functions Python
+- **Theory:** Lambda Functions Python.
 - **Task:** ~~Experiment with lambda functions.~~
 - **To Do:** ~~Add lambda.py with examples of lambda functions.~~
 
