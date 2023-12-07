@@ -74,8 +74,8 @@ My github challenge repo
 
 ## Day 14: Importing Modules in Python
 - **Theory:** Python Modules
-- **Task:** Write a script that imports and uses at least one module.
-- **To Do:** Place modules.py in my repository.
+- **Task:**~~ Write a script that imports and uses at least one module.~~
+- **To Do:** ~~Place modules.py in my repository.~~
 
 ## Day 15: File Handling in Python
 - **Theory:** File Input/Output in Python
