@@ -78,8 +78,8 @@ My github challenge repo
 
 ## Day 15: File Handling in Python
 - **Theory:** File Input/Output in Python
-- **Task:** Write a Python script that reads from and writes to files.
-- **To Do:** Add file_handling.py and the text file I worked with.
+- **Task:** ~~Write a Python script that reads from and writes to files.~~
+- **To Do:** ~~Add file_handling.py and the text file you worked with.~~
 
 ## Day 16: Introduction to Error Handling
 - **Theory:** Exception Handling in Python
