@@ -19,27 +19,27 @@ My github challenge repo
 - **Task:** ~~Create a new GitHub repository.~~
 - **To Do:** ~~Add a README.md file describing my 30-day plans.~~
 
-## Day 4: "Hello, World!" in Python
+## Day 4: "Hello, World!" in Python ✅
 - **Theory:** Python for Beginners
 - **Task:** ~~Write a "Hello, World!" script in Python.~~
 - **To Do:** ~~Place the hello_world.py file in my repository.~~
 
-## Day 5: Variables and Data Types in Python
+## Day 5: Variables and Data Types in Python ✅
 - **Theory:** Variables and Data Types in Python
 - **Task:** ~~Write a Python script using various data types and variables.~~
 - **To Do:** ~~Add the variables.py file to my repository.~~
 
-## Day 6: Working with Strings in Python
+## Day 6: Working with Strings in Python ✅
 - **Theory:** Manipulating Strings in Python
 - **Task:** ~~Create a Python script manipulating strings (concatenation, slicing, etc.).~~
 - **To Do:** ~~Put the string_operations.py file in my repository.~~
 
-## Day 7: Basics of Mathematics in Python
+## Day 7: Basics of Mathematics in Python ✅
 - **Theory:** Arithmetic Operations in Python
 - **Task:** ~~Write a Python script performing various arithmetic operations.~~
 - **Decision:** ~~Add arithmetic.py to my repository.~~
 
-## Day 8: Lists in Python
+## Day 8: Lists in Python ✅
 - **Theory:** Python Lists
 - **Task:** ~~Play with Python lists: sort, add, and index.~~
 - **To Do:** ~~Record in the lists.py file.~~
@@ -47,44 +47,44 @@ My github challenge repo
 ---
 
 
-## Day 9: Dictionaries Python
+## Day 9: Dictionaries Python ✅
 - **Theory:** Dictionaries Python
 - **Task:** ~~Create a script using dictionaries to store and retrieve data.~~
 - **To Do:** ~~Add dictionaries.py to my repository.~~
 
-## Day 10: Conditional Statements in Python
+## Day 10: Conditional Statements in Python ✅
 - **Theory:** Control Flow in Python
 - **Task:** ~~Write a script using if-else statements.~~
 - **To Do:** ~~Place the conditionals.py file in my repository.~~
 
-## Day 11: Python Loops
+## Day 11: Python Loops ✅
 - **Theory:** Python Loops
 - **Task:** ~~Use for and while loops in a Python script.~~
 - **To Do:** ~~Add loops.py to my repository.~~
 
-## Day 12: Functions in Python
+## Day 12: Functions in Python ✅
 - **Theory:** Python Functions
 - **Task:** ~~Create a Python script with multiple functions, performing tasks.~~
 - **To Do:** ~~Put functions.py in my repository.~~
 
-## Day 13: Lambdas Python
+## Day 13: Lambdas Python ✅
 - **Theory:** Lambda Functions Python.
 - **Task:** ~~Experiment with lambda functions.~~
 - **To Do:** ~~Add lambda.py with examples of lambda functions.~~
-## Day 14: Importing Modules in Python
+## Day 14: Importing Modules in Python ✅
 - **Theory:** Python Modules
 - **Task:**~~ Write a script that imports and uses at least one module.~~
 - **To Do:** ~~Place modules.py in my repository.~~
 
-## Day 15: File Handling in Python
+## Day 15: File Handling in Python ✅
 - **Theory:** File Input/Output in Python
 - **Task:** ~~Write a Python script that reads from and writes to files.~~
 - **To Do:** ~~Add file_handling.py and the text file you worked with.~~
 
-## Day 16: Introduction to Error Handling
+## Day 16: Introduction to Error Handling ✅
 - **Theory:** Exception Handling in Python
-- **Task:** Use try-except blocks in a script.
-- **To Do:** Upload error_handling.py with my examples.
+- **Task:**~~Use try-except blocks in a script.~~
+- **To Do:** ~~Upload error_handling.py with my examples.~~
 
 ---
 
