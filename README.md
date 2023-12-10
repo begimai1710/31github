@@ -88,10 +88,10 @@ My github challenge repo
 
 ---
 
-## Day 17: Understanding Lists in Python
+## Day 17: Understanding Lists in Python ✅
 - **Theory:** Understanding Lists in Python
-- **Task:** Write list comprehensions in a script.
-- **To Do:** Add list_comprehensions.py to my repository.
+- **Task:** ~~Write list comprehensions in a script.~~
+- **To Do:** ~~Add list_comprehensions.py to my repository.~~
 
 ## Day 18: Creating a Basic Class in Python
 - **Theory:** Python Classes and Objects
