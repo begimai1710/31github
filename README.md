@@ -93,10 +93,10 @@ My github challenge repo
 - **Task:** ~~Write list comprehensions in a script.~~
 - **To Do:** ~~Add list_comprehensions.py to my repository.~~
 
-## Day 18: Creating a Basic Class in Python
+## Day 18: Creating a Basic Class in Python ✅
 - **Theory:** Python Classes and Objects
-- **Task:** Define a class with basic functionality.
-- **To Do:** Upload classes.py with class definition and usage examples.
+- **Task:** ~~Define a class with basic functionality.~~
+- **To Do:** ~~Upload classes.py with class definition and usage examples.~~
 
 ## Day 19: Inheritance in Python
 - **Theory:** Inheritance in Python
