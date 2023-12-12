@@ -98,10 +98,10 @@ My github challenge repo
 - **Task:** ~~Define a class with basic functionality.~~
 - **To Do:** ~~Upload classes.py with class definition and usage examples.~~
 
-## Day 19: Inheritance in Python
+## Day 19: Inheritance in Python ✅
 - **Theory:** Inheritance in Python
-- **Task:** Write a Python script demonstrating inheritance.
-- **To Do:** Include inheritance.py in my repository.
+- **Task:** ~~Write a Python script demonstrating inheritance.~~
+- **To Do:** ~~Include inheritance.py in my repository.~~
 
 ## Day 20: Introduction to Web Scraping with Python
 - **Theory:** Beautiful Soup: Web Scraping
