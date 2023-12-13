@@ -105,8 +105,8 @@ My github challenge repo
 
 ## Day 20: Introduction to Web Scraping with Python
 - **Theory:** Beautiful Soup: Web Scraping
-- **Task:** Scrape data from a webpage.
-- **To Do:** Place web_scraping.py and any data files I created.
+- **Task:** ~~Scrape data from a webpage.~~
+- **To Do:** ~~Place web_scraping.py and any data files I created.~~
 
 ## Day 21: Python and APIs
 - **Theory:** Working with APIs in Python
