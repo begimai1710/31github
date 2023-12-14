@@ -103,12 +103,12 @@ My github challenge repo
 - **Task:** ~~Write a Python script demonstrating inheritance.~~
 - **To Do:** ~~Include inheritance.py in my repository.~~
 
-## Day 20: Introduction to Web Scraping with Python
+## Day 20: Introduction to Web Scraping with Python ✅
 - **Theory:** Beautiful Soup: Web Scraping
 - **Task:** ~~Scrape data from a webpage.~~
 - **To Do:** ~~Place web_scraping.py and any data files I created.~~
 
-## Day 21: Python and APIs
+## Day 21: Python and APIs ✅
 - **Theory:** Working with APIs in Python
 - **Task:** ~~Use a public API to retrieve and process data.~~
 - **To Do:** ~~Add api_interaction.py to my script.~~
