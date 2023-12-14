@@ -110,8 +110,8 @@ My github challenge repo
 
 ## Day 21: Python and APIs
 - **Theory:** Working with APIs in Python
-- **Task:** Use a public API to retrieve and process data.
-- **To Do:** Add api_interaction.py to my script.
+- **Task:** ~~Use a public API to retrieve and process data.~~
+- **To Do:** ~~Add api_interaction.py to my script.~~
 
 ## Day 22: Setting Up a Simple Web Server with Flask
 - **Theory:** Quick Start with Flask
