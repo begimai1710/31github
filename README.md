@@ -113,10 +113,10 @@ My github challenge repo
 - **Task:** ~~Use a public API to retrieve and process data.~~
 - **To Do:** ~~Add api_interaction.py to my script.~~
 
-## Day 22: Setting Up a Simple Web Server with Flask
+## Day 22: Setting Up a Simple Web Server with Flask✅
 - **Theory:** Quick Start with Flask
-- **Task:** Create a basic web server using Flask.
-- **To Do:** Put the folder containing my Flask application.
+- **Task:** ~~Create a basic web server using Flask.~~
+- **To Do:** ~~Put the folder containing my Flask application.~~
 
 ## Day 23: Basics of HTML/CSS
 - **Theory:** HTML and CSS
