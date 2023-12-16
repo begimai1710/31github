@@ -118,10 +118,10 @@ My github challenge repo
 - **Task:** ~~Create a basic web server using Flask.~~
 - **To Do:** ~~Put the folder containing my Flask application.~~
 
-## Day 23: Basics of HTML/CSS
+## Day 23: Basics of HTML/CSS✅
 - **Theory:** HTML and CSS
-- **Task:** Create a simple HTML page with CSS styles.
-- **To Do:** Add index.html and styles.css to my repository.
+- **Task:** ~~Create a simple HTML page with CSS styles.~~
+- **To Do:** ~~Add index.html and styles.css to my repository.~~
 
 ## Day 24: Basics of JavaScript
 - **Theory:** Basics of JavaScript
