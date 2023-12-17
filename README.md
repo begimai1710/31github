@@ -123,10 +123,10 @@ My github challenge repo
 - **Task:** ~~Create a simple HTML page with CSS styles.~~
 - **To Do:** ~~Add index.html and styles.css to my repository.~~
 
-## Day 24: Basics of JavaScript
+## Day 24: Basics of JavaScript ✅
 - **Theory:** Basics of JavaScript
-- **Task:** Write basic JavaScript to interact with an HTML page.
-- **To Do:** Place script.js and update my index.html to include it.
+- **Task:** ~~Write basic JavaScript to interact with an HTML page.~~
+- **To Do:** ~~Place script.js and update my index.html to include it.~~
 
 ---
 
