@@ -1,8 +1,7 @@
 // script.js
 
-var rainbowColors = ['#FF69B4', '#FF0000', '#FF7F00', '#FFFF00', '#00FF00', '#0000FF', '#4B0082', '#8B00FF'];
-
-var currentColorIndex = 1; // Start with index 1 for pink
+var rainbowColors = ['#FF0000', '#FF7F00', '#FFFF00', '#00FF00', '#0000FF', '#4B0082', '#8B00FF'];
+var currentColorIndex = 0;
 
 function changeHeaderColor() {
     // Access the element with the id 'header'
