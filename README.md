@@ -130,10 +130,10 @@ My github challenge repo
 
 ---
 
-## Day 25: Integrating JavaScript with HTML/CSS
+## Day 25: Integrating JavaScript with HTML/CSS ✅
 - **Theory:** Interactive Websites
-- **Task:** Make my webpage interactive with JavaScript.
-- **To Do:** Update script.js with interactive functions and commit changes.
+- **Task:** ~~Make my webpage interactive with JavaScript.~~
+- **To Do:**~~Update script.js with interactive functions and commit changes.~~
 
 ## Day 26: Introduction to Databases
 - **Theory:** SQL Self-Learning
