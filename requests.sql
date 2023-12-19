@@ -1,1 +1,10 @@
--- Online SQL Editor to Run SQL Online.-- Use the editor to create new tables, insert data and all other SQL operations.SELECT COUNT(amount) FROM Orders;SELECT AVG(amount) FROM Orders;SELECT MAX(amount) FROM Orders;SELECT MIN(amount) FROM Orders;  SELECT first_name, countryFROM Customers;SELECT last_name, ageFROM Customers WHERE country = 'USA';
+SELECT COUNT(amount) FROM Orders;
+SELECT AVG(amount) FROM Orders;
+SELECT MAX(amount) FROM Orders;
+SELECT MIN(amount) FROM Orders;
+
+SELECT first_name, country
+FROM Customers;
+
+SELECT last_name, age
+FROM Customers WHERE country = 'USA';
