@@ -135,10 +135,10 @@ My github challenge repo
 - **Task:** ~~Make my webpage interactive with JavaScript.~~
 - **To Do:**~~Update script.js with interactive functions and commit changes.~~
 
-## Day 26: Introduction to Databases
+## Day 26: Introduction to Databases ✅
 - **Theory:** SQL Self-Learning
-- **Task:** Write basic SQL queries to a sample database.
-- **To Do:** Add a file with my SQL queries.
+- **Task:** ~~Write basic SQL queries to a sample database.~~
+- **To Do:** ~~Add a file with my SQL queries.~~
 
 ## Day 27: Using Git and GitHub for Version Control
 - **Theory:** Advanced Git
