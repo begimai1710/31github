@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #ff69b4;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+#footer {
+    background-color: #ff69b4;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+    position: relative; /* Change to relative */
+}
+
+.image-container {
+    max-width: 700px;
+    margin: 10px auto; /* Adjust margin as needed */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
