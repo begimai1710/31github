@@ -140,10 +140,10 @@ My github challenge repo
 - **Task:** ~~Write basic SQL queries to a sample database.~~
 - **To Do:** ~~Add a file with my SQL queries.~~
 
-## Day 27: Using Git and GitHub for Version Control
+## Day 27: Using Git and GitHub for Version Control ✅
 - **Theory:** Advanced Git
-- **Tasks:** Branching, merging changes, and using pull requests.
-- **Task:** Merge the feature branch with the main branch.
+- **Tasks:** ~~Branching, merging changes, and using pull requests.~~
+- **Task:** ~~Merge the feature branch with the main branch.~~
 
 ## Day 28: Code Review and Collaborating with GitHub
 - **Theory:** Collaborative Work on GitHub
