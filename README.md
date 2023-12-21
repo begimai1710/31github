@@ -145,10 +145,10 @@ My github challenge repo
 - **Tasks:** ~~Branching, merging changes, and using pull requests.~~
 - **Task:** ~~Merge the feature branch with the main branch.~~
 
-## Day 28: Code Review and Collaborating with GitHub
-- **Theory:** Collaborative Work on GitHub
-- **Task:** Review someone else's code or collaborate on a small feature.
-- **Decision:** Open a pull request with my contribution to the project.
+## Day 28: SQL Practice
+- **Theory:** Deepen SQL knowledge
+- **Task:** Write SQL queries
+- **Decision:** Commit file with SQL queries
 
 ## Day 29: Deploying a Simple Application
 - **Theory:** Introduction to Heroku
