@@ -145,10 +145,10 @@ My github challenge repo
 - **Tasks:** ~~Branching, merging changes, and using pull requests.~~
 - **Task:** ~~Merge the feature branch with the main branch.~~
 
-## Day 28: SQL Practice
-- **Theory:** Deepen SQL knowledge
-- **Task:** Write SQL queries
-- **Decision:** Commit file with SQL queries
+## Day 28: SQL Practice✅
+- **Theory:** Deepen SQL knowledge , pull request for someone else's repo
+- **Task:** ~~Write SQL queries , make updates on someone@s repo~~
+- **Decision:** ~~Update file with SQL queries, make pull request on someone's repo~~
 
 ## Day 29: Deploying a Simple Application
 - **Theory:** Introduction to Heroku
