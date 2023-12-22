@@ -150,10 +150,10 @@ My github challenge repo
 - **Task:** ~~Write SQL queries , make updates on someone@s repo~~
 - **Decision:** ~~Update file with SQL queries, make pull request on someone's repo~~
 
-## Day 29: Deploying a Simple Application
-- **Theory:** Introduction to Heroku
-- **Task:** Deploy one of my projects (e.g., Flask application) on Heroku or a similar platform.
-- **To Do:** Add deployment files and a 'Deployed' section to README with a direct link.
+## Day 29: More SQL Practice 
+- **Theory:** Deepen SQL knowledge
+- **Task:**Write SQL Queries
+- **To Do:** Update file with SQL Queries
 
 ## Day 30: Reflection and Documenting My Learning Journey
 - **Theory:** Writing Reflective Essays
