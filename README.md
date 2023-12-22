@@ -150,10 +150,10 @@ My github challenge repo
 - **Task:** ~~Write SQL queries , make updates on someone@s repo~~
 - **Decision:** ~~Update file with SQL queries, make pull request on someone's repo~~
 
-## Day 29: More SQL Practice 
+## Day 29: More SQL Practice ✅
 - **Theory:** Deepen SQL knowledge
-- **Task:**Write SQL Queries
-- **To Do:** Update file with SQL Queries
+- **Task:**~~Write SQL Queries~~
+- **To Do:**~~Update file with SQL Queries~~
 
 ## Day 30: Reflection and Documenting My Learning Journey
 - **Theory:** Writing Reflective Essays
